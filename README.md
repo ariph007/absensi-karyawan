@@ -25,4 +25,4 @@ Fitur yang belum ada :
   
   *Mohon tidak mengubah user/pass
 
-Note : Kodingnya masih berantakan karena ngejar deadline tugas... Silahkan dirapikan kembali
+Note : Kodingnya masih berantakan karena ngejar deadline tugas... Masih ada kode yang belum lengkap :v Silahkan diperbaiki dan dirapikan kembali
